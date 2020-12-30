@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.fei{
+
+	width: 1000px;
+	height: 30px;
+	margin: 0 auto;
+	
+}
+.fei img{
+	
+	float: left;
+}
+.fei p{
+	margin-left: 400px;
+	float: left;
+}

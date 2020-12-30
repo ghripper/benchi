@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.wei{
+	width: 1000px;
+	height: 350px;
+	margin: 0 auto;
+	
+}
+.wei ul{
+	width: 200px;
+	height: 350px;
+	float: left;
+	margin-right: 20px;
+	padding-left: 30px;
+}
+.wei ul li{
+	margin-top: 10px;
+	list-style: none;
+}
+.wei ul li a{
+	text-decoration: none;
+	color: #000;
+}
+.wei .yi{
+	margin-right: 20px;
+}

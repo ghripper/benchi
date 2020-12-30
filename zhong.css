@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.zhongtu{
+	padding-left: 25px;
+	width: 975px;
+	height: 400px;
+	margin: 0 auto;
+	
+}
+#zhong{
+	margin-left: 25px;
+}
+.zhongtu img{
+	margin-top: 50px;
+	float: left;
+}
+.zhongtu .shang{
+	margin-left: 5.5px;
+}
+.zhongtu .x{
+	margin-left: 5.5px;
+}

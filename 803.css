@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+.qi{
+	width: 1000px;
+	height: 300px;
+	margin: 0 auto;
+	background-color: #f1f1f1;
+	
+}
+.qi .qita{
+	font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.qi .jin{
+	font-size: 10px;
+	margin-bottom: 20px;
+}
+.qi .guan{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+.qi img{
+	margin-right: 20px;
+
+}
+.mei{
+	width: 100%;
+	height: 80px;
+	margin: 0 auto;
+	background-color: #000;
+}
+.mei p{
+	color: #fff;
+	text-align: center;
+}
+.mei .wang{
+	margin-left: 400px;
+}
+.mei li{
+	float: left;
+	margin-right: 10px;
+	list-style: none;
+
+}
+.mei ul li a{
+	text-decoration: none;
+	color: #fff;
+}

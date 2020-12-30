@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.daohang{
+	width: 1000px;
+	height: 100px;
+	margin: 0 auto;
+}
+.daohang dl{
+	width: 120px;
+	height: 100px;
+	float: left;
+	margin-left: 90px;
+	margin-right: 30px;
+	text-align: center;	
+}
+.daohang dl dd{
+	margin-top: 10px;
+	margin-left: 5px;
+}

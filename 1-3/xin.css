@@ -1,0 +1,145 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.a{
+	width: 100%;
+	height: 50px;
+	background-color: #000;
+
+}
+.aa img{
+	width: 100%;
+	margin-bottom: 50px;
+}
+.ab{
+	width: 1000px;
+	height: 50px;
+	margin: 0 auto;
+	/*background-color: #ccc;*/
+}
+.ab h2{
+	float: left;
+	width: 240px;
+	text-align: center;
+	font-size: 30px;
+	font-family: '宋体';
+}
+.ab hr{
+	/*float: left;*/
+	width: 360px;
+	float: left;
+	margin-top: 15px;
+
+}
+.ac{
+	width: 1000px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+.ac h3{
+	font-size: 20px;
+	text-align: center;
+	color: #333;
+}
+
+
+ dl{
+	width: 1000px;
+	height: 390px;
+	/*background-color: #ccc;*/
+	width: 1000px;
+	margin: 0 auto;
+
+}
+ dl dt{
+	width: 460px;
+	float: left;
+}
+ dl dd{
+	width: 430px;
+	float: right;
+}
+ dl dd .p1{
+	font-size: 30px;
+	margin-bottom: 20px;
+	margin-top: 80px;
+}
+ dl dd .p2{
+	font-size: 20px;
+}
+.dl2 dt{
+	float: right;
+}
+.dl2 dd{
+	float: left;
+}
+#hui{
+	width: 1000px;
+	height: 50px;
+	background-color: #ccc;
+}
+.c{
+	width: 100%;
+	margin-top: -30px;
+	margin-top: 30px;
+}
+.c img{
+	width:100%;
+}
+.e{
+	
+}
+.ea{
+	width: 1000px;
+	height: 50px;
+	margin: 0 auto;
+	padding-top: 50px;
+	/*background-color: #ccc;*/
+}
+.ea h2{
+	float: left;
+	width: 240px;
+	text-align: center;
+	font-size: 30px;
+	font-family: '宋体';
+}
+.ea hr{
+	/*float: left;*/
+	width: 360px;
+	float: left;
+	margin-top: 15px;
+
+}
+.e{
+width: 100%;
+	height: 400px;
+	background-color: #ccc;
+	position: relative;
+	background-image: url(images/31.jpg);
+	background-repeat: no-repeat;
+	background-position: 310px 100px;
+}
+.e #ke{
+	position: absolute;
+	margin-left: 350px;
+	margin-top: 100px;
+	color: #fff;
+	font-size: 25px;
+
+}
+.f{
+	width: 150px;
+	height: 40px;
+	margin: 0 auto;
+	background-color: red;
+}
+.f a button{
+	width: 150px;
+	height: 40px;
+	border: 0px;
+	outline: 0px;
+}
+.f a button:hover{
+	cursor: pointer;
+}
